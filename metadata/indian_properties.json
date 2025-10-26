@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Luxury Apartment in Bandra West",
+    "description": "3 BHK premium apartment with sea-facing view",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Bandra West, Mumbai"
+      },
+      {
+        "trait_type": "Property Value (INR)",
+        "value": "35000000"
+      }
+    ]
+  },
+  {
+    "name": "Commercial Office Space in Whitefield",
+    "description": "Grade A commercial office space",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Whitefield, Bangalore"
+      },
+      {
+        "trait_type": "Property Value (INR)",
+        "value": "28000000"
+      }
+    ]
+  }
+]

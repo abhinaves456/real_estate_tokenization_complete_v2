@@ -1,0 +1,15 @@
+{
+  "name": "Property #2",
+  "description": "Sample property 2 for demo",
+  "image": "ipfs://QmExampleImageHash2",
+  "attributes": [
+    {
+      "trait_type": "Area",
+      "value": "1000 sqft"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 2
+    }
+  ]
+}

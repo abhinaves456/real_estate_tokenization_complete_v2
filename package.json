@@ -1,0 +1,19 @@
+{
+  "name": "real_estate_tokenization_complete",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/completeSetup.js",
+    "upload-ipfs": "node scripts/uploadToIPFS.js",
+    "demo-payment": "node scripts/paymentIntegration.js",
+    "demo-kyc": "node scripts/kycIntegration.js",
+    "frontend": "cd frontend_nextjs && npm run dev",
+    "lint": "eslint --ext .js,.jsx . || true",
+    "test": "echo \"No tests defined\" && exit 0",
+    "prepare-zip": "node scripts/completeSetup.js"
+  },
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "razorpay": "^2.8.0"
+  }
+}
